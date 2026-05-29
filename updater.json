@@ -1,11 +1,11 @@
 {
-  "version": "1.0.7",
-  "notes": "VoidMu Client Desktop Auto-Update v1.0.7!",
-  "pub_date": "2026-05-29T20:15:05.217Z",
+  "version": "1.0.8",
+  "notes": "VoidMu Client Desktop Auto-Update v1.0.8!",
+  "pub_date": "2026-05-29T20:35:39.011Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSN2FVajVmc0poa1NVVHFUYnJmUXBYK08xNVpxUSt0OHk3Snc0UVc0THM0MkozSENXcS96VTFsNmFtdG9Jb2ZJV1RKZkIzMUpUVm4va2N3eHE3ZytKUzR0ZlB5VHpEWWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDg1NzAzCWZpbGU6Vm9pZE11XzEuMC43X3g2NC1zZXR1cC5leGUKc08rSEhsaG9PS2x0K0JVMWtDRWdIYnM1dXpMVFNUK3lwK2VFN3VDVEpNdjFob3RZSGs0aFVwNGNESk00aFhGcDNrbWFoWllpSHVpSDZxME51SWdBRHc9PQo=",
-      "url": "https://github.com/VoidMMORPG/void-web-tauri-client-public-release/releases/download/v1.0.7/VoidMu_1.0.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSN2FVajVmc0poa1NJaHpLTU82TzdTeWdNb2NhMk9VZFBZcXI1TXI4ekFXcXAzUDFpdW9scVVaM1NQa3NCY21GTGIzSDQzUTk2NXl2Um5NNUtEcGt4KzIwTFJzb2o5TncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDg2OTM3CWZpbGU6Vm9pZE11XzEuMC44X3g2NC1zZXR1cC5leGUKMWw4NWpUVWNBVTA1WlV1VUxIM3hRVXFFc09qNi9sSU9lckl1T3RvZWZaamNZemJsTXhkUmJrcG1FZmpZS1h2WlBuVDNYczJFcFNvUGlKb1FJYTFaQXc9PQo=",
+      "url": "https://github.com/VoidMMORPG/void-web-tauri-client-public-release/releases/download/v1.0.8/VoidMu_1.0.8_x64-setup.exe"
     }
   }
 }
